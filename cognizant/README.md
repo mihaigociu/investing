@@ -8,6 +8,8 @@ A Warren Buffett–style value investing analysis of **Cognizant Technology Solu
 
 This is a **live, forward-looking decision** — the opposite of the Rover case study in the sibling `rovercom/` folder. There, the question was retrospective (was Blackstone's $11 buyout a bargain?) and there was a real buyer's price to grade against. Here, **there is no answer key.** You are the buyer, the market is quoting you a price right now, and the future is genuinely unresolved.
 
+> **Update (Oct 2026):** see `follow-up-2026-10.md`. The stock re-rated to ~$59. The verdict moved from WAIT/small starter to HOLD, don't add, trim on strength for concentration.
+
 ## Why this is the mirror image of Rover — and why that matters
 
 | | **Rover (ROVR)** | **Cognizant (CTSH)** |
@@ -30,6 +32,7 @@ This analysis is unusual because the analyst is a **current Cognizant employee**
 
 | File | What it is |
 |------|-----------|
+| `follow-up-2026-10.md` | **October 2026 follow-up (latest).** Price ~$43 → ~$59; Q2 results; T&M now shrinking while fixed-price grows ~12%; how Cognizant is positioning for "AI augments, not replaces"; re-valuation and HOLD verdict. |
 | `investment-memo.md` | **The narrative conclusion + the buy/wait verdict.** Read this first for the story; the rest is the evidence. |
 | `value-investing-analysis-plan.md` | **The main plan.** The 7-phase Buffett framework, tailored to an IT-services business and a live buy/wait decision. |
 | `financials-actuals.md` | **Real numbers.** FY2021–FY2025 GAAP actuals (10-K-exact) + FY2026 guidance, with valuation multiples at ~$43. |
